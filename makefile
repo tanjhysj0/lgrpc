@@ -1,0 +1,1 @@
+protoc --go_out=./stub/ --go-grpc_out=./stub/ --go_opt=paths=source_relative --go-grpc_opt=paths=source_relative protobuff/hello.proto
