@@ -10,6 +10,7 @@
         "email":"12128714931@qq.com",
         "role": "developer"
     }],
-    "email":"1218714931@qq.com"
+    "email":"1218714931@qq.com",
+    "minimum-stability":"dev"
 
 }
