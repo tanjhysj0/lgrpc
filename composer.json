@@ -1,0 +1,15 @@
+{
+    "name":"tanjhysj0/lgrpc",
+    "description":"这是个学习的包",
+    "version":"1.0.0",
+    "keywords": ["lgrpc"],
+    "time":"2022-10-22",
+    "license":"Apache-2.0",
+    "authors": [{
+        "name":"serlon",
+        "email":"12128714931@qq.com",
+        "role": "developer"
+    }],
+    "email":"1218714931@qq.com"
+
+}
